@@ -1,0 +1,4 @@
+config:
+  kubernetes:context: k3d-keycloak-local
+  keycloak-local:hostname: keycloak.local
+  keycloak-local:namespace: keycloak

@@ -1,0 +1,3 @@
+name: keycloak-local
+runtime: go
+description: Automated, reproducible deployment of Keycloak on a local Kubernetes cluster (cert-manager TLS, hardened NetworkPolicy, admin bootstrap)
